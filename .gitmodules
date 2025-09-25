@@ -1,0 +1,4 @@
+[submodule "resource/changyy-yt-dlp-youtube-js-player-processing"]
+	path = resource/changyy-yt-dlp-youtube-js-player-processing
+	url = https://github.com/changyy/yt-dlp.git
+	branch = youtube-js-player-processing
