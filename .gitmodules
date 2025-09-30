@@ -2,3 +2,7 @@
 	path = resource/changyy-yt-dlp-youtube-js-player-processing
 	url = https://github.com/changyy/yt-dlp.git
 	branch = youtube-js-player-processing
+[submodule "resource/changyy-yt-dlp-parsing-youtube-video-with-js-engine"]
+	path = resource/changyy-yt-dlp-parsing-youtube-video-with-js-engine
+	url = git@github.com:changyy/yt-dlp.git
+	branch = parsing-youtube-video-with-js-engine
